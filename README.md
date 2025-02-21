@@ -2,6 +2,8 @@
 
 Welcome to Arogyam-Kiosk - The A.I & ML based Health Assistant. This web application is designed to predict diseases using Artificial Intelligence and Machine Learning, providing diagnostic tools for early illness detection and promoting preventive health through data analysis.
 
+![tech](https://github.com/user-attachments/assets/2cafe3b9-621f-4f0b-be4d-26c46dde2a86)
+
 ## Table of Contents
 - [Features](#features)
 - [Datasets](#datasets)
