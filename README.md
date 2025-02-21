@@ -41,50 +41,50 @@ Welcome to Arogyam-Kiosk - The A.I & ML based Health Assistant. This web applica
 These features are designed to provide a comprehensive and user-friendly healthcare experience. The application aims to make healthcare more accessible and personalized for each user.
 
 
-## Datasets
+## 📊 Datasets
 This project utilizes a vast amount of datasets for accurate disease prediction.
 
-## Machine Learning
+## 🤖 Machine Learning
 Multiple ML models are employed for disease prediction.
 
-## NLP Bot
-We develop an Ai Bot using the NLP
+## 💬 NLP Bot
+We develop an AI-powered chatbot using Natural Language Processing (NLP) for health-related queries.
 
-## A.I Interface
-We aim to make the entire system A.I Interface based for user convenience.
+## 🎛️ A.I Interface
+We aim to make the entire system AI-driven for enhanced user convenience and seamless interactions.
 
-## Medicine Prediction
+## 💊 Medicine Prediction
 Predict prescriptions and possible medicines using advanced algorithms.
 
-## Early Disease Prediction
-Our solutions enhance early disease prediction through complex medical data analysis using models like Random Forests, Naive Bayes, and Decision Trees.
+## 🏥 Early Disease Prediction
+Our solutions enhance early disease detection through complex medical data analysis using AI models like Random Forests, Naive Bayes, and Decision Trees.
 
-- Random Forests: 84%
-- Naive Bayes: 88%
-- Decision Tree: 91%
+🌲 Random Forests: 84% Accuracy
+📊 Naive Bayes: 88% Accuracy
+📉 Decision Tree: 91% Accuracy
+📅 Book an Appointment
+Schedule appointments, view upcoming meetings, and get meeting details instantly.
 
-## Book an Appointment
-Schedule appointments, view upcoming meetings, and get meeting details.
+## 🦠 Currently Active Disease
+Stay informed about currently active diseases with visual representations and real-time updates.
 
-## Currently Active Disease
-Stay informed about currently active diseases with visual representations.
+## 👨‍⚕️ Find Doctors in Your City
+Search for doctors in your city, view top-rated professionals, and book appointments effortlessly.
 
-## Find Doctors On Your City
-Search for doctors in your city, view top doctors, and book appointments.
-## Find Best Doctors On Your City
-list of best doctors in your city, view top doctors.
+## ⭐ Find Best Doctors in Your City
+Access a curated list of the best doctors in your city, along with ratings and reviews.
 
-## Health Insurance Comparison
-Compare health insurance plans for informed decision-making.
+## 🏦 Health Insurance Comparison
+Compare health insurance plans for informed decision-making and better coverage selection.
 
-## Ask Your Query To Doctor
-Ask health-related queries to our team.
+## ❓ Ask Your Query to a Doctor
+Ask health-related queries to our expert medical team and get trusted advice.
 
-## Medicine Check
-Function to check medicine availability
+## 🔎 Medicine Check
+Check medicine availability and find alternatives if needed.
 
-## Login
-Login to your account securely.
+## 🔐 Login
+Securely log in to your account with encrypted authentication.
 
-## Biometric Authentication
-Use biometric authentication for added security.
+## 🛡️ Biometric Authentication
+Use biometric authentication (fingerprint/face recognition) for added security and convenience.
