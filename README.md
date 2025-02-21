@@ -24,26 +24,6 @@ Welcome to Arogyam-Kiosk - The A.I & ML based Health Assistant. This web applica
 - [Our Partners](#our-partners)
 - [Contact Us](#contact-us)
 
-
-## How to Use
-
-Follow these steps to set up and run the project:
-
-1. **Clone the Repository**: Clone the repository <br>
- `git clone https://github.com/Sudhaanshuu/Arogyam.git`
-
-2. **Navigate to the Directory**: Use the command `cd Arogyam/Model` to navigate to the specific directory.
-
-3. **Install Dependencies**: Run the command to download all the libraries of the Python engine. Use the command `pip install -r requirements.txt`
-
-4. **Run the Streamlit App**: Execute the command `streamlit run su.py` in the terminal.
-
-5. **Navigate Back to Main Directory**: Go back to the main directory, which is 'Arogyam', by using the command `cd ..`
-
-6. **Open index.html**: Open the 'index.html' file with a live server.
-
-That's it! You have successfully set up and run the project.
-
 ## Features
 
 - **Video Call**: This feature allows users to conduct video calls with healthcare professionals. It provides a platform for real-time interaction and consultation.
@@ -105,23 +85,8 @@ Ask health-related queries to our team.
 ## Medicine Check
 Function to check medicine availability
 
-## Team
-Meet the minds behind Arogyam-Kiosk:
-
-- Sudhanshu Kumar: Student, Coder, Designer
-- Aman Ujwal Toppo: Coder, Developer
-
-
 ## Login
 Login to your account securely.
 
 ## Biometric Authentication
 Use biometric authentication for added security.
-
-## Our Partners
-Companies that trust us.
-
-## Contact Us
-Feel free to send us a message or call us at +91 8252228793. We value your thoughts and feedback.
-
-© Copyright 2023 Sudhanshu. All Rights Reserved. Design by Sudhanshu.
