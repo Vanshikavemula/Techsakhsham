@@ -20,15 +20,6 @@ Arogyam Kiosk is a futuristic, modern sci-fi themed web application designed to 
 - **Contact Form**: Integrated with Formspree for user inquiries.
 - **Profile Dashboard**: View upcoming appointments and user details.
 
-## Tech Stack
-
-- **Frontend**: React (TypeScript), React Router, Tailwind CSS
-- **Backend**: Supabase (Authentication & Database)
-- **Video Calls**: Agora SDK
-- **Messaging & AI**: Hugging Face API for chatbot, basic messaging system
-- **Forms**: Formspree (Contact Us page)
-- **Notifications**: React Hot Toast for alerts
-
 ## Installation
 
 1. Clone the repository:
